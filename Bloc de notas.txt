@@ -1,0 +1,3 @@
+Esto es un Bloc de notas hecho por terminal.
+En el futuro cercano este repositorio local será usado para
+crear un repositorio desde GitHub sin README.
