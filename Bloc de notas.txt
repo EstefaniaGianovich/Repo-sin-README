@@ -6,3 +6,6 @@ En estos momentos este repositorio que era local pasó a ser
 un repositorio en la nube.
 Para comprobarlo no guardaré commit pero si subiré los cambios
 a la nube.
+
+Bueno, al parecer si o si necesito hacer un commit para poder
+resubir los cambios en este archivo.
